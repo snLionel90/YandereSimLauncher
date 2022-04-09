@@ -1,0 +1,11 @@
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\bin\Debug\YandereSimLauncher.exe
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\bin\Debug\YandereSimLauncher.pdb
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\YandereSimLauncher.YandereLauncher.resources
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\YandereSimLauncher.Properties.Resources.resources
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\YandereSimLauncher.csproj.GenerateResource.Cache
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\YandereSimLauncher.exe
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\YandereSimLauncher.pdb
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\bin\Debug\es-ES\YandereSimLauncher.resources.dll
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\YandereSimLauncher.Resource1.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\YandereSimLauncher.YandereLauncher.es-ES.resources
+C:\Users\lionel\Documents\Visual Studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Debug\es-ES\YandereSimLauncher.resources.dll

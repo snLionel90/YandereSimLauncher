@@ -1,0 +1,683 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnDeviantart.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnGitHub.Location" type="System.Drawing.Point, System.Drawing">
+    <value>341, 243</value>
+  </data>
+  <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnGitHub.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;informacionToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btnGitHub.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="toolStripMenuItem2.Text" xml:space="preserve">
+    <value>1989</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem3.Name" xml:space="preserve">
+    <value>toolStripMenuItem3</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;btnInstagram.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;btnInstagram.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="opcionesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 24</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>YandereLauncher</value>
+  </data>
+  <data name="&gt;&gt;btnInstagram.Name" xml:space="preserve">
+    <value>btnInstagram</value>
+  </data>
+  <data name="btnYoutube.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;informacionToolStripMenuItem.Name" xml:space="preserve">
+    <value>informacionToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;opcionesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDeviantart.Name" xml:space="preserve">
+    <value>btnDeviantart</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>603, 301</value>
+  </data>
+  <data name="&gt;&gt;buttonDownload.Name" xml:space="preserve">
+    <value>buttonDownload</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;opcionesToolStripMenuItem.Name" xml:space="preserve">
+    <value>opcionesToolStripMenuItem</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe Script, 12pt</value>
+  </data>
+  <data name="buttonDownload.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 9.75pt</value>
+  </data>
+  <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cerrarToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 24</value>
+  </data>
+  <data name="btnInstagram.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 48</value>
+  </data>
+  <data name="buttonDownload.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 246</value>
+  </data>
+  <data name="buttonDownload.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIAClAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAAlw
+        SFlzAAALEwAACxMBAJqcGAAAAldJREFUWIXtlrtLXEEUxkeiIFjYqoVoLNKJD7AxIhosBDHiY8HCQsWY
+        kMLaRl3jPxIttDJVwMZHIYqNsBbu+ii18FGIGzRJYfwOcwYulzkzc3dN54EfzM6cx3d3zp07Sr1auJWA
+        VrAItkEO/GKyPJcGLf+jcAqcgH+BkLhhji3KGsBBgsJx9kF9ocXfg6siihtuQXfS4l3g7wsUN/wBnaHF
+        G1i1L+mD0k2X5rHP/0YFbAc1jW/Pn8AaqI3E0XiV11yxe8rTmClPgkOle0OydvZx5RhyPb30qlEzToE3
+        YARM89gYjT/zGo0/KbmBs5KAViGA/tpK0AR2IvMZpZv1AziKzO+wbyXH2nI22wR8E5wneP0d+Cn4RNkC
+        jRwzKfgs2ARsOwR8BF9BKY/PLH7nYEDpLfjCfpKATZuAU4eAcR7TEdsLysAMuFP6W0BPVK70lmTYd9wh
+        IGcTcB8gwPBD6fOiClSDt2A95uMScJ9UwIhl/jfoYR4t66mkAqRX0DQhdXvGsjYRm6O/t49jJAHWV3HL
+        I4CMmnDDIWCTfYwlasJ0gACyFYeAtZivJGDOJqBFcF4GFQUIqOBYW84mmwA6inNCwAUYY58+/h0XcAn6
+        2Wcs4hPn2Fbc2LAQZKAbThs/3RIYZZZ4ro19XDkGXQJKAhLQJ/c7qInE1fCc73O8qwLuiXRpuPEkIvJg
+        lskH+F+DOl9xY51KX6N8SUOhXB2hxY3R5eKlLqVdSYsbo+3YK6I47XldocWNUdPQNSqboDC9as5uL9To
+        JrOg9FFKgvJMlufmlXDIvJpkz8jL8h1d/2zUAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>217, 20</value>
+  </data>
+  <data name="toolStripMenuItem3.Text" xml:space="preserve">
+    <value>2022</value>
+  </data>
+  <data name="toolStripMenuItem3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 24</value>
+  </data>
+  <data name="btnDeviantart.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 31</value>
+  </data>
+  <data name="btnGitHub.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 48</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;buttonDownload.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>258, 20</value>
+  </data>
+  <data name="informacionToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 24</value>
+  </data>
+  <data name="&gt;&gt;btnInstagram.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="buttonDownload.Text" xml:space="preserve">
+    <value>Descargar</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>603, 28</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label1.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="btnGitHub.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnInstagram.Location" type="System.Drawing.Point, System.Drawing">
+    <value>526, 243</value>
+  </data>
+  <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="&gt;&gt;btnDeviantart.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonDownload.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;modeToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnYoutube.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 48</value>
+  </data>
+  <data name="btnDeviantart.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="btnInstagram.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="modeToolStripMenuItem.Text" xml:space="preserve">
+    <value>Mode</value>
+  </data>
+  <data name="btnYoutube.Location" type="System.Drawing.Point, System.Drawing">
+    <value>466, 243</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>579, 209</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="progressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>129, 252</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;btnGitHub.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDeviantart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="&gt;&gt;btnYoutube.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnYoutube.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Aharoni, 12pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="modeToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe Script, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="progressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="btnDeviantart.Size" type="System.Drawing.Size, System.Drawing">
+    <value>54, 48</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnGitHub.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        GP8BLToclJMAgOkAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="cerrarToolStripMenuItem.Text" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="progressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>206, 35</value>
+  </data>
+  <data name="&gt;&gt;cerrarToolStripMenuItem.Name" xml:space="preserve">
+    <value>cerrarToolStripMenuItem</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>173, 8</value>
+  </data>
+  <data name="btnDeviantart.Location" type="System.Drawing.Point, System.Drawing">
+    <value>406, 243</value>
+  </data>
+  <data name="btnYoutube.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>(c) Sn.Lionel90
+</value>
+  </data>
+  <data name="cerrarToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 24</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="btnInstagram.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>338, 9</value>
+  </data>
+  <data name="&gt;&gt;btnGitHub.Name" xml:space="preserve">
+    <value>btnGitHub</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Name" xml:space="preserve">
+    <value>toolStripMenuItem2</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;btnYoutube.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btnYoutube.Name" xml:space="preserve">
+    <value>btnYoutube</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Yandere Launcher (c) Sn.Lionel90</value>
+  </data>
+  <data name="&gt;&gt;aboutToolStripMenuItem.Name" xml:space="preserve">
+    <value>aboutToolStripMenuItem</value>
+  </data>
+  <data name="modeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>58, 24</value>
+  </data>
+  <data name="&gt;&gt;btnDeviantart.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="buttonDownload.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 42</value>
+  </data>
+  <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>152, 24</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="opcionesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="opcionesToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe Script, 9.75pt</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="informacionToolStripMenuItem.Text" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Name" xml:space="preserve">
+    <value>progressBar1</value>
+  </data>
+  <data name="&gt;&gt;buttonDownload.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;aboutToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;modeToolStripMenuItem.Name" xml:space="preserve">
+    <value>modeToolStripMenuItem</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Yandere Simulator Launcher
+</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es-ES</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

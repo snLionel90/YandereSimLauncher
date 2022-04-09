@@ -1,0 +1,18 @@
+C:\Users\lionel\AppData\Local\Temporary Projects\YandereSimLauncher\bin\Release\YandereSimLauncher.exe
+C:\Users\lionel\AppData\Local\Temporary Projects\YandereSimLauncher\bin\Release\YandereSimLauncher.pdb
+C:\Users\lionel\AppData\Local\Temporary Projects\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.YandereLauncher.resources
+C:\Users\lionel\AppData\Local\Temporary Projects\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.Properties.Resources.resources
+C:\Users\lionel\AppData\Local\Temporary Projects\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.csproj.GenerateResource.Cache
+C:\Users\lionel\AppData\Local\Temporary Projects\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.exe
+C:\Users\lionel\AppData\Local\Temporary Projects\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.pdb
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.exe
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.pdb
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\bin\Release\YandereSimLauncher.exe
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\bin\Release\YandereSimLauncher.pdb
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.YandereLauncher.resources
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.Properties.Resources.resources
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.csproj.GenerateResource.Cache
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\bin\Release\es-ES\YandereSimLauncher.resources.dll
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.Resource1.resources
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\YandereSimLauncher.YandereLauncher.es-ES.resources
+C:\Users\lionel\documents\visual studio 2010\Projects\YandereSimLauncher\YandereSimLauncher\obj\x86\Release\es-ES\YandereSimLauncher.resources.dll
