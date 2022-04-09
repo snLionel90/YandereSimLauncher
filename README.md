@@ -1,0 +1,2 @@
+# YandereSimLauncher
+C# / .NET proyect
